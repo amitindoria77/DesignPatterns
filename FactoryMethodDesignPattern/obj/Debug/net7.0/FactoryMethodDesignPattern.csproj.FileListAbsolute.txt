@@ -1,0 +1,15 @@
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/FactoryMethodDesignPattern/bin/Debug/net7.0/FactoryMethodDesignPattern
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/FactoryMethodDesignPattern/bin/Debug/net7.0/FactoryMethodDesignPattern.deps.json
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/FactoryMethodDesignPattern/bin/Debug/net7.0/FactoryMethodDesignPattern.runtimeconfig.json
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/FactoryMethodDesignPattern/bin/Debug/net7.0/FactoryMethodDesignPattern.dll
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/FactoryMethodDesignPattern/bin/Debug/net7.0/FactoryMethodDesignPattern.pdb
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/FactoryMethodDesignPattern/obj/Debug/net7.0/FactoryMethodDesignPattern.csproj.AssemblyReference.cache
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/FactoryMethodDesignPattern/obj/Debug/net7.0/FactoryMethodDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/FactoryMethodDesignPattern/obj/Debug/net7.0/FactoryMethodDesignPattern.AssemblyInfoInputs.cache
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/FactoryMethodDesignPattern/obj/Debug/net7.0/FactoryMethodDesignPattern.AssemblyInfo.cs
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/FactoryMethodDesignPattern/obj/Debug/net7.0/FactoryMethodDesignPattern.csproj.CoreCompileInputs.cache
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/FactoryMethodDesignPattern/obj/Debug/net7.0/FactoryMethodDesignPattern.dll
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/FactoryMethodDesignPattern/obj/Debug/net7.0/refint/FactoryMethodDesignPattern.dll
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/FactoryMethodDesignPattern/obj/Debug/net7.0/FactoryMethodDesignPattern.pdb
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/FactoryMethodDesignPattern/obj/Debug/net7.0/FactoryMethodDesignPattern.genruntimeconfig.cache
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/FactoryMethodDesignPattern/obj/Debug/net7.0/ref/FactoryMethodDesignPattern.dll

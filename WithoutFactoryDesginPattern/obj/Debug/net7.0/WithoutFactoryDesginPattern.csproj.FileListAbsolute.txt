@@ -1,0 +1,15 @@
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/WithoutFactoryDesginPattern/bin/Debug/net7.0/WithoutFactoryDesginPattern
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/WithoutFactoryDesginPattern/bin/Debug/net7.0/WithoutFactoryDesginPattern.deps.json
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/WithoutFactoryDesginPattern/bin/Debug/net7.0/WithoutFactoryDesginPattern.runtimeconfig.json
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/WithoutFactoryDesginPattern/bin/Debug/net7.0/WithoutFactoryDesginPattern.dll
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/WithoutFactoryDesginPattern/bin/Debug/net7.0/WithoutFactoryDesginPattern.pdb
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/WithoutFactoryDesginPattern/obj/Debug/net7.0/WithoutFactoryDesginPattern.csproj.AssemblyReference.cache
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/WithoutFactoryDesginPattern/obj/Debug/net7.0/WithoutFactoryDesginPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/WithoutFactoryDesginPattern/obj/Debug/net7.0/WithoutFactoryDesginPattern.AssemblyInfoInputs.cache
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/WithoutFactoryDesginPattern/obj/Debug/net7.0/WithoutFactoryDesginPattern.AssemblyInfo.cs
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/WithoutFactoryDesginPattern/obj/Debug/net7.0/WithoutFactoryDesginPattern.csproj.CoreCompileInputs.cache
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/WithoutFactoryDesginPattern/obj/Debug/net7.0/WithoutFactoryDesginPattern.dll
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/WithoutFactoryDesginPattern/obj/Debug/net7.0/refint/WithoutFactoryDesginPattern.dll
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/WithoutFactoryDesginPattern/obj/Debug/net7.0/WithoutFactoryDesginPattern.pdb
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/WithoutFactoryDesginPattern/obj/Debug/net7.0/WithoutFactoryDesginPattern.genruntimeconfig.cache
+/Users/aindoria/Projects/WithoutFactoryDesginPattern/WithoutFactoryDesginPattern/obj/Debug/net7.0/ref/WithoutFactoryDesginPattern.dll
